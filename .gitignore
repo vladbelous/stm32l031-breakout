@@ -2,3 +2,7 @@
 /docs/*
 *-bak
 *.bak
+*-cache.lib
+/libs/*.dcm
+/libs/*.bck
+*-info-cache
