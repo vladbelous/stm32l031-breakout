@@ -14,7 +14,7 @@ STM32L-series is optimized for low power, so there's also optional:
 
 The AP7354 has very low quiescent current (< 0.6uA), which may be useful for MCU sleeping.
 
-Designed with KiCad 5 (www.kicad-pcb.org).
+Designed with KiCad 5 (www.kicad.org).
 
 ## Schematic:
 ![schematic](img/schematic.png)
